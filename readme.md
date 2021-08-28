@@ -1,7 +1,7 @@
 # Pretty GeoDataFrame
 
 
-A python function to draw pretty geodataframe.
+A minimum python function (~60 lines) to draw pretty geodataframe.
 
 Based on *matplotlib*, *shapely*, *descartes*.
 
@@ -66,7 +66,7 @@ inspired by https://github.com/marceloprates/prettymaps
 
 # 漂亮的GeoDataFrame
 
-在这个仓库，我们提供了一个简单的python函数来绘制漂亮的GeoDataFrame。这个函数构建在3个现有的库上即*matplotlib*, *shapely*, *descartes*。
+在这个仓库，我们提供了一个简单的python函数(大概60行代码)来绘制漂亮的GeoDataFrame。这个函数构建在3个现有的库上即*matplotlib*, *shapely*, *descartes*。
 
 ## 安装
 
