@@ -19,7 +19,9 @@ We provide example data in *sample_data* directory.
 
 ```python
 
-from plot_gdf import gdf
+from plot_gdf import plot_gdf
+import matplotlib.pyplot as plt
+import geopandas as gpd
 
 gdf = gpd.read_file('./sample_data/sample_land_use_circle.shp')
 drawing_kwargs = {
